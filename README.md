@@ -27,8 +27,9 @@ Ce projet consiste à comprendre le comportement des visiteurs de leur site.
 
 ## Structure du projet
 
-* ```data```: Jeux de données
-* ```Modele/```: Entraînement de modèles
+* ```data/```: Jeux de données
+* ```images/```: Images utilisées dans les notebooks
+* ```notebook/```: Notebooks Jypiter
 
 ## Librairies Python
 ```
