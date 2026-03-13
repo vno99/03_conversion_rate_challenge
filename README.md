@@ -35,3 +35,7 @@ Ce projet consiste à comprendre le comportement des visiteurs de leur site.
 ```
 python -m pip install -r requirements.txt
 ```
+
+## GitHub
+
+https://github.com/vno99/03_conversion_rate_challenge
